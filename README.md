@@ -36,11 +36,3 @@ This is a personal project aimed at learning full-stack development, building a 
 - Media Storage: Cloudinary / Firebase / Local uploads
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/nirflix.git
-cd nirflix
